@@ -1,6 +1,6 @@
 function a()
 {
-	return "a"
+	return "A"
 }
 
 function b()
